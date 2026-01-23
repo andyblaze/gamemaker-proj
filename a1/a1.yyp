@@ -36,6 +36,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
     {"id":{"name":"Sound2","path":"sounds/Sound2/Sound2.yy",},},
+    {"id":{"name":"Sound3","path":"sounds/Sound3/Sound3.yy",},},
     {"id":{"name":"spr_fire","path":"sprites/spr_fire/spr_fire.yy",},},
     {"id":{"name":"spr_greenbg","path":"sprites/spr_greenbg/spr_greenbg.yy",},},
     {"id":{"name":"spr_rock","path":"sprites/spr_rock/spr_rock.yy",},},

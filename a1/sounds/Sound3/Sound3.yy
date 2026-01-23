@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Sound3",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":2,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.806375,
+  "exportDir":"",
+  "name":"Sound3",
+  "parent":{
+    "name":"objects",
+    "path":"folders/objects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":32000,
+  "soundFile":"Sound3.mp3",
+  "volume":0.55,
+}
