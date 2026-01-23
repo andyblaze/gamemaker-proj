@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_ship",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Object5",
+  "eventList":[],
   "managed":true,
-  "name":"obj_ship",
+  "name":"Object5",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_ship",
-    "path":"sprites/spr_ship/spr_ship.yy",
+    "name":"Sprite5",
+    "path":"sprites/Sprite5/Sprite5.yy",
   },
   "spriteMaskId":null,
   "visible":true,
