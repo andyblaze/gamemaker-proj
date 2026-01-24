@@ -41,6 +41,7 @@
     {"id":{"name":"spr_greenbg","path":"sprites/spr_greenbg/spr_greenbg.yy",},},
     {"id":{"name":"spr_rock","path":"sprites/spr_rock/spr_rock.yy",},},
     {"id":{"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},},
+    {"id":{"name":"spr_thrust","path":"sprites/spr_thrust/spr_thrust.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
   ],
