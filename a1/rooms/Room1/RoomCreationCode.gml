@@ -1,1 +1,2 @@
-audio_play_sound(Sound1, 1, true);
+audio_play_sound(droids, 1, true);
+randomize();

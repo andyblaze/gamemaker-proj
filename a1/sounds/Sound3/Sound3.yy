@@ -22,5 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":32000,
   "soundFile":"Sound3.mp3",
-  "volume":0.55,
+  "volume":0.84,
 }
