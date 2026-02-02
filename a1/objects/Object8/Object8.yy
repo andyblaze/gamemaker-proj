@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sprite8",
-    "path":"sprites/Sprite8/Sprite8.yy",
+    "name":"Sprite19",
+    "path":"sprites/Sprite19/Sprite19.yy",
   },
   "spriteMaskId":null,
   "visible":true,
