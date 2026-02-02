@@ -1,1 +1,3 @@
-image_angle += 0.025;
+move_wrap(true, true, 60);
+
+image_angle += 1;
