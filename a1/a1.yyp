@@ -51,6 +51,7 @@
     {"id":{"name":"rock_90f_128sq","path":"objects/rock_90f_128sq/rock_90f_128sq.yy",},},
     {"id":{"name":"ParticleSystem1","path":"particles/ParticleSystem1/ParticleSystem1.yy",},},
     {"id":{"name":"ParticleSystem2","path":"particles/ParticleSystem2/ParticleSystem2.yy",},},
+    {"id":{"name":"ParticleSystem3","path":"particles/ParticleSystem3/ParticleSystem3.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Shader1","path":"shaders/Shader1/Shader1.yy",},},
     {"id":{"name":"droids","path":"sounds/droids/droids.yy",},},
