@@ -1,7 +1,8 @@
 // Draw the ship
 draw_self();
 
-// Only draw thrust when accelerating
+// Only draw thrust when accelerating 
+/*
 if (keyboard_check(vk_up))
 {
     var thrust_dist = 0;
@@ -22,3 +23,4 @@ if (keyboard_check(vk_up))
     );
 }
 
+*/

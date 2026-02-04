@@ -35,3 +35,18 @@ if (spd > max_speed)
     hspeed = lengthdir_x(max_speed, dir);
     vspeed = lengthdir_y(max_speed, dir);
 }
+
+// Step Event
+var back_dist = 0;  // distance behind ship
+var px = x - lengthdir_x(back_dist, image_angle);
+var py = y - lengthdir_y(back_dist, image_angle);
+
+// Spawn tickover particle
+effect_create_depth(
+    ps_ship_idle,
+    px,
+    py,
+    1,
+    c_white,
+    depth - 1
+);
