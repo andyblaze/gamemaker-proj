@@ -2,10 +2,10 @@
 draw_self();
 
 // Only draw thrust when accelerating 
-/*
+
 if (keyboard_check(vk_up))
 {
-    var thrust_dist = 0;
+    var thrust_dist = 70;
 
     var tx = x - lengthdir_x(thrust_dist, image_angle);
     var ty = y - lengthdir_y(thrust_dist, image_angle);
@@ -23,4 +23,3 @@ if (keyboard_check(vk_up))
     );
 }
 
-*/

@@ -37,7 +37,7 @@ if (spd > max_speed)
 }
 
 // Step Event
-var back_dist = 0;  // distance behind ship
+/*var back_dist = 0;  // distance behind ship
 var px = x - lengthdir_x(back_dist, image_angle);
 var py = y - lengthdir_y(back_dist, image_angle);
 
@@ -49,4 +49,4 @@ effect_create_depth(
     1,
     c_white,
     depth - 1
-);
+);*/
