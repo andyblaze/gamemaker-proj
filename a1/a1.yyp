@@ -64,6 +64,7 @@
     {"id":{"name":"rockg","path":"sprites/rockg/rockg.yy",},},
     {"id":{"name":"spr_fire","path":"sprites/spr_fire/spr_fire.yy",},},
     {"id":{"name":"spr_greenbg","path":"sprites/spr_greenbg/spr_greenbg.yy",},},
+    {"id":{"name":"spr_idle","path":"sprites/spr_idle/spr_idle.yy",},},
     {"id":{"name":"spr_rock_90f_128sq","path":"sprites/spr_rock_90f_128sq/spr_rock_90f_128sq.yy",},},
     {"id":{"name":"spr_rock","path":"sprites/spr_rock/spr_rock.yy",},},
     {"id":{"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},},

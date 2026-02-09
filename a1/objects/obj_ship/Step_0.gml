@@ -36,17 +36,13 @@ if (spd > max_speed)
     vspeed = lengthdir_y(max_speed, dir);
 }
 
-// Step Event
-/*var back_dist = 0;  // distance behind ship
-var px = x - lengthdir_x(back_dist, image_angle);
-var py = y - lengthdir_y(back_dist, image_angle);
+// Step
+thruster_frame += thruster_speed;
+if (thruster_frame >= sprite_get_number(spr_thrust)) {
+    thruster_frame = 0;
+}
+idle_frame += idle_speed;
+if (idle_frame >= sprite_get_number(spr_idle)) {
+    idle_frame = 0;
+}
 
-// Spawn tickover particle
-effect_create_depth(
-    ps_ship_idle,
-    px,
-    py,
-    1,
-    c_white,
-    depth - 1
-);*/

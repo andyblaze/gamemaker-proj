@@ -1,6 +1,21 @@
 // Draw the ship
 draw_self();
 
+var idle_dist = 35;
+    var ix = x - lengthdir_x(idle_dist, image_angle);
+    var iy = y - lengthdir_y(idle_dist, image_angle);
+    draw_sprite_ext(
+        spr_idle,
+       floor(idle_frame),
+        ix,
+        iy,
+        1,
+        1,
+        image_angle,
+        c_white,
+        1
+    );
+
 // Only draw thrust when accelerating 
 
 if (keyboard_check(vk_up))
@@ -12,7 +27,7 @@ if (keyboard_check(vk_up))
 
     draw_sprite_ext(
         spr_thrust,
-        0,
+       floor(thruster_frame),
         tx,
         ty,
         1,
